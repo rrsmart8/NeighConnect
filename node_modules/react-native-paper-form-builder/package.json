@@ -1,0 +1,43 @@
+{
+  "name": "react-native-paper-form-builder",
+  "version": "2.1.2",
+  "description": "Form builder component using React Native Paper and React Hook Form",
+  "files": [
+    "dist"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fateh999/react-native-paper-form-builder.git"
+  },
+  "keywords": [
+    "FormBuilder",
+    "Material",
+    "Forms",
+    "React",
+    "Native",
+    "Paper"
+  ],
+  "author": "Fateh Farooqui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fateh999/react-native-paper-form-builder/issues"
+  },
+  "homepage": "https://github.com/fateh999/react-native-paper-form-builder#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-paper": "*",
+    "@types/react": "*",
+    "@types/react-native": "*",
+    "typescript": "*",
+    "react-hook-form": "*"
+  }
+}
