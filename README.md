@@ -4,7 +4,6 @@ Here's a **README.md** file for your **NeighConnect** app with a clear descripti
 
 ## **NeighConnect**
 
-![NeighConnect Home](./neigh-connect-homescreen.jpeg)  
 *A community-driven app to report, solve, and connect over neighborhood issues!*
 
 ### **Overview**  
@@ -26,11 +25,16 @@ NeighConnect is a **React Native** mobile app that allows users to **report neig
 
 ### **Home Screen**
 Users can see all reported problems from the community.  
-![Home Screen](./neigh-connect-homescreen.jpeg)
+<p align="center">
+  <img src="./neigh-connect-homescreen.jpeg" alt="Home Screen" width="300">
+</p>
 
 ### **Map Integration**
 Reported issues are pinned on the map with details.  
-![Map Screen](./neigh-connect-map.jpeg)
+
+<p align="center">
+  <img src="./neigh-connect-map.jpeg" alt="Home Screen" width="300">
+</p>
 
 ---
 
