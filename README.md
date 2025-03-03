@@ -1,7 +1,3 @@
-Here's a **README.md** file for your **NeighConnect** app with a clear description, features, installation guide, and usage instructions. It also includes the images you uploaded for visualization.
-
----
-
 ## **NeighConnect**
 
 *A community-driven app to report, solve, and connect over neighborhood issues!*
