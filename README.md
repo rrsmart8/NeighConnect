@@ -17,7 +17,7 @@ NeighConnect is a **React Native** mobile app that allows users to **report neig
 
 ---
 
-## **📲 Screenshots**
+## **Screenshots**
 
 ### **Home Screen**
 Users can see all reported problems from the community.  
@@ -34,7 +34,7 @@ Reported issues are pinned on the map with details.
 
 ---
 
-## **🛠️ Tech Stack**
+## **Tech Stack**
 - **Frontend:** React Native (Expo)
 - **Backend:** Strapi (Node.js)
 - **Maps:** Google Maps API (for interactive issue visualization)
@@ -42,7 +42,7 @@ Reported issues are pinned on the map with details.
 
 ---
 
-## **📥 Installation & Setup**
+## **Installation & Setup**
 
 ### **Prerequisites**
 - Install **Node.js** (v16 or later)
@@ -72,7 +72,7 @@ npm install
 ```sh
 expo start
 ```
-🚀 Open the app in **Expo Go** on your phone or in an emulator.
+Open the app in **Expo Go** on your phone or in an emulator.
 
 ---
 
@@ -88,7 +88,7 @@ This starts the backend, making APIs available for authentication, posting issue
 
 ---
 
-## **🗺️ Google Maps Integration**
+## **Google Maps Integration**
 To enable **Google Maps API**, follow these steps:
 
 1. Go to the **[Google Cloud Console](https://console.cloud.google.com/)**.
@@ -109,7 +109,7 @@ To enable **Google Maps API**, follow these steps:
 
 ---
 
-### 🏆 Hackathon Project  
+### Hackathon Project  
 
 This project was developed during the **Deutsche Bank Hackathon** by:  
 - **Robert** ([GitHub](https://github.com/robertpaulp))  
